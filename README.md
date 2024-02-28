@@ -31,7 +31,7 @@ Autoimmune Thyroid Disease
 # Citation
 If you find our work useful in your research, please consider citing:
 
-**@misc{azam2024comprehensive,
+@misc{azam2024comprehensive,
   title={A Comprehensive Evaluation of Large Language Models in Mining Gene Relations and Pathway Knowledge}, 
   author={Muhammad Azam and Yibo Chen and Micheal Olaolu Arowolo and Haowang Liu and Mihail Popescu and Dong Xu},
   year={2024},
@@ -39,7 +39,7 @@ If you find our work useful in your research, please consider citing:
   archivePrefix={bioRxiv},
   primaryClass={cs.LG}
 }
-**
+
 
 
 
