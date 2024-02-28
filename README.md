@@ -28,13 +28,12 @@ Autoimmune Thyroid Disease
 
 # References
 
-# Citation 
-  If you find our work useful in your research, please consider citing:
-      @misc{azam2024comprehensive,
-      title={A Comprehensive Evaluation of Large Language Models in Mining Gene Relations and Pathway Knowledge}, 
-      author={Muhammad Azam and Yibo Chen and Micheal Olaolu Arowolo and Haowang Liu and Mihail Popescu and Dong Xu},
-      year={2024},
-      eprint={2024.01.21.576542},
-      archivePrefix={bioRxiv},
-      primaryClass={cs.LG} % Assuming cs.LG (Machine Learning) as the relevant category based on the content
-}
+ ## Citation
+
+If you find our work useful in your research, please consider citing:
+
+Muhammad Azam, Yibo Chen, Micheal Olaolu Arowolo, Haowang Liu, Mihail Popescu, Dong Xu. "A Comprehensive Evaluation of Large Language Models in Mining Gene Relations and Pathway Knowledge" (2024). [arXiv:2024.01.21.576542](https://arxiv.org/abs/2024.01.21.576542). 
+
+
+
+
