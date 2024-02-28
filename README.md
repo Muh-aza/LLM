@@ -1,7 +1,8 @@
 # Evaluation of Large Language Models in Studying Genes and Pathways
    This is the official repository for our comprehensive study on leveraging 21 large language models (LLMs) for extracting gene regulatory relations and pathway knowledge from biomedical literature, detailed in our publication (doi: https://doi.org/10.1101/2024.01.21.576542 ).This repository shares insights on model selection and prompt design by highlighting the distinct performances of API-based versus open-source LLMs, with GPT-4 and Claude-Pro standing out for their effectiveness. These findings are pivotal for gene network analysis and pathway mapping, pushing forward the understanding of disease mechanisms and drug development.
 # Quick Overview
-      ![alt text](http://url/to/Fig3.png)
+      ![alt text](http://url/to/image/Fig-3.png)
+  
       
 # Structured Prompts for determining using KEGG Pathway 
 # Evaluations of Gene Regulatory Relations
