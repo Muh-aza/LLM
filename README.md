@@ -1,8 +1,5 @@
-# A Comprehensive Evaluation of Large Language Models in Mining Gene Relations and Pathway Knowledge
-   About 
-
-This comprehensive study evaluates the efficacy of 21 large language models (LLMs), both API-based and open-source, in mining gene relations and pathway knowledge from extensive biomedical literature. Focusing on gene regulatory relations such as activation, inhibition, and phosphorylation, alongside KEGG pathway component recognition, the research reveals significant performance disparities among the models. API-based models, particularly GPT-4 and Claude-Pro, demonstrated superior accuracy and efficiency, showcasing their potential as powerful tools in biomedical research. The study also explores the implications of model selection and prompt design for enhancing biomedical knowledge extraction. Our findings offer valuable insights for researchers in selecting and utilizing LLMs effectively for gene network analysis and pathway mapping, contributing to advancements in understanding disease mechanisms and drug development. The full methodology, data, and code are accessible on our GitHub repository
-
+# Evaluation of Large Language Models in Studying Genes and Pathways
+   This is the official repository for our comprehensive study on leveraging 21 large language models (LLMs) for extracting gene regulatory relations and pathway knowledge from biomedical literature, detailed in our publication (doi: https://doi.org/10.1101/2024.01.21.576542 ).This repository shares insights on model selection and prompt design by highlighting the distinct performances of API-based versus open-source LLMs, with GPT-4 and Claude-Pro standing out for their effectiveness. These findings are pivotal for gene network analysis and pathway mapping, pushing forward the understanding of disease mechanisms and drug development.
 # Quick Overview
 
 # Structured Prompts for determining using KEGG Pathway 
