@@ -26,8 +26,12 @@ Predicted genes not present in proteoglycans in cancer by the 21 LLMs.
 Autoimmune Thyroid Disease
 
 
-# References
- 
+ ## References
+
+- Park, Gilchan, Yoon, Byung-Jun, Luo, Xihaier, López-Marrero, Vanessa, Johnstone, Patrick, Yoo, Shinjae, Alexander, Francis J. "Comparative Performance Evaluation of Large Language Models for Extracting Molecular Interactions and Pathway Knowledge." arXiv:2307.08813v1 [cs.CL] (2023).
+
+- Xu, Dong. "ChatGPT opens a new door for bioinformatics." Quantitative Biology 11.2 (2023): 204-206. [https://doi.org/10.15302/J-QB-023-0328](https://doi.org/10.15302/J-QB-023-0328).
+
 # Citation
 If you find our work useful in your research, please consider citing:
 
