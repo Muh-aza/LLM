@@ -24,3 +24,13 @@ Predicted genes not present in phagosome by the 21 LLMs
 Proteoglycans in Cancer
 Predicted genes not present in proteoglycans in cancer by the 21 LLMs.
 Autoimmune Thyroid Disease
+# Citation 
+ If you find our work useful in your research, please consider citing:
+   @misc{azam2024comprehensive,
+      title={A Comprehensive Evaluation of Large Language Models in Mining Gene Relations and Pathway Knowledge}, 
+      author={Muhammad Azam and Yibo Chen and Micheal Olaolu Arowolo and Haowang Liu and Mihail Popescu and Dong Xu},
+      year={2024},
+      eprint={2024.01.21.576542},
+      archivePrefix={bioRxiv},
+      primaryClass={cs.LG} % Assuming cs.LG (Machine Learning) as the relevant category based on the content
+}
