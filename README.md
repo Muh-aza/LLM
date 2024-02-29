@@ -23,7 +23,6 @@
 ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/image/Fig2-A.png)
 ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/image/Fig2-B.png)
    
-image/Fig2-B.png
  ## References
 
 - Park, Gilchan, Yoon, Byung-Jun, Luo, Xihaier, López-Marrero, Vanessa, Johnstone, Patrick, Yoo, Shinjae, Alexander, Francis J. "Comparative Performance Evaluation of Large Language Models for Extracting Molecular Interactions and Pathway Knowledge." arXiv:2307.08813v1 [cs.CL] (2023).
