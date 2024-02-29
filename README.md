@@ -23,7 +23,7 @@
 | **Prompt6**    | As a gene interaction specialist, your task is to determine the effect of {gene1} on {gene2} using the KEGG Pathway Database, a comprehensive resource for understanding molecular interaction and relation networks in cellular processes. Provide a clear and unambiguous answer using one of the following terms: 'activation' (gene1 activates gene2), 'inhibition' (gene1 inhibits gene2), 'phosphorylation' (gene1 phosphorylates gene2), or 'no information' if there is no known relationship. Ensure your answer is definitive and composed of 'activation', 'inhibition', 'phosphorylation', or 'no information without further details or explanation. |
 | **Final Prompt** | As a computational biologist, determine what is the relation between {gene1} and {gene2} in KEGG Pathway Database. KEGG pathways are collections of pathway maps that represent our knowledge of the molecular interaction, reaction, and relation networks for various biological processes. To determine the relation between {gene1} and {gene2}, please provide a definitive answer without further thought. Describe the relation in one or two of the following words: activation, inhibition, phosphorylation. If you are replying with two relations, separate two relations using '...'. Please note that the directionality of the relationship is important. Make sure your answer is definitive, answer with relations only, without further details or explanations. Make sure your answer is definitive, composed of 'activation', 'inhibition', 'phosphorylation' or 'no information without further details or explanation. |
 
-   # Evaluations of KEGG Pathway Recognition 
+   ## Evaluations of KEGG Pathway Recognition 
         Which genes are involved in "Adherens junction"?
 
   ![alt Fig-2A](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/Fig2-A.png)
@@ -37,7 +37,7 @@
 
 - Xu, Dong. "ChatGPT opens a new door for bioinformatics." Quantitative Biology 11.2 (2023): 204-206. [https://doi.org/10.15302/J-QB-023-0328](https://doi.org/10.15302/J-QB-023-0328).
 
-# Citation
+## Citation
  If you find our work useful in your research, please consider citing:
 ```bibtex
 @misc{azam2024comprehensive,
