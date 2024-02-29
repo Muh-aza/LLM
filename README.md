@@ -21,7 +21,7 @@
    # Evaluations of KEGG Pathway Recognition 
      ### Which genes are involved in "Adherens junction"?
 
-  ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/Fig-3.png)
+  ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/Fig2-A.png)
    
  ## References
 
