@@ -20,29 +20,10 @@
 # Evaluations of KEGG Pathway Recognition 
    ### Which genes are involved in "Adherens junction"?
  Adherens Junction complex
-   false positive predictions and their performance in the Adherens junction
-### Which genes are involved in "Tight junction"? 
+   ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/image/Fig2-A.png)
+    ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/image/Fig2-B.png)
    
-Tight junction 
-      Predicted genes not present in Tight junction by the 21 LLMs.
-### Which genes are involved in "Gap junction"?  
-
-Gap junction
- Predicted genes not present in the gap junction by the 21 LLMs.
- ### Which genes are involved in "Cellular Senescence Function"?  
- 
-Cellular Senescence Function
- Predicted genes not present in cellular senescence by the 21 LLMs.
-  ### Which genes are involved in "Phagosome Function"?  
-Phagosome Function
-Predicted genes not present in phagosome by the 21 LLMs
- ### Which genes are involved in "Proteoglycans in Cancer"?  
-Proteoglycans in Cancer
-Predicted genes not present in proteoglycans in cancer by the 21 LLMs.
- ### Which genes are involved in "Autoimmune Thyroid Disease"?  
-Autoimmune Thyroid Disease
-
-
+image/Fig2-B.png
  ## References
 
 - Park, Gilchan, Yoon, Byung-Jun, Luo, Xihaier, López-Marrero, Vanessa, Johnstone, Patrick, Yoo, Shinjae, Alexander, Francis J. "Comparative Performance Evaluation of Large Language Models for Extracting Molecular Interactions and Pathway Knowledge." arXiv:2307.08813v1 [cs.CL] (2023).
