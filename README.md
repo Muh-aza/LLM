@@ -4,7 +4,7 @@
 ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/Fig-3.png)
    
 
-## Structured Prompts for determining using KEGG Pathway 
+# Structured Prompts for determining using KEGG Pathway 
    
 | Prompt ID      | Task Description |
 |----------------|------------------|
