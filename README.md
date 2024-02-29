@@ -4,11 +4,11 @@
 ![alt Fig-3](https://raw.githubusercontent.com/Muh-aza/LLM/main/image/Fig-3.png)
 
 
-  # Requirement
+  ## Requirement
 
-  # Get Started
+  ## Get Started
 
-  # Finetuning
+  ## Finetuning
   
 ## Evaluations of Gene Regulatory Relations
      Structured Prompts for determining using KEGG Pathway 
